@@ -1,0 +1,231 @@
+[
+    {
+        "img": "/upload/206357.jpg",
+        "name": "6.4\" Motorola 96GB",
+        "price": 20906,
+        "bonus": 209,
+        "specifications": {
+            "matrix": "AMOLED",
+            "acc": "4778 мА * ч"
+        }
+    },
+    {
+        "img": "/upload/744821.jpeg",
+        "name": "6.4\" ASUS 160GB",
+        "price": 246125,
+        "bonus": 2461,
+        "specifications": {
+            "processor": "8x4.0 ГГц",
+            "sim": "4 SIM",
+            "matrix": "AMOLED",
+            "camera": "118 MP",
+            "acc": "3172 мА * ч"
+        }
+    },
+    {
+        "img": "/upload/510689.svg",
+        "name": "5.0\" HTC 144GB",
+        "price": 246904,
+        "bonus": 2469,
+        "specifications": {
+            "matrix": "AMOLED",
+            "resolution": "1600x2160"
+        }
+    },
+    {
+        "img": "/upload/684780.webp",
+        "name": "5.6\" Lenovo 144GB",
+        "price": 61887,
+        "bonus": 618,
+        "specifications": {
+            "ram": "7 GB",
+            "sim": "4 SIM",
+            "matrix": "AMOLED",
+            "resolution": "1366x1080",
+            "camera": "55 MP"
+        }
+    },
+    {
+        "img": "/upload/574140.jpeg",
+        "name": "7.0\" NVIDIA 240GB",
+        "price": 131094,
+        "bonus": 1310,
+        "specifications": {
+            "processor": "4x4.7 ГГц",
+            "ram": "10 GB",
+            "sim": "2 SIM",
+            "matrix": "AMOLED",
+            "resolution": "2560x1200"
+        }
+    },
+    {
+        "img": "/upload/930157.webp",
+        "name": "6.2\" Texas Instruments 144GB",
+        "price": 87979,
+        "bonus": 879,
+        "specifications": {
+            "processor": "4x3.7 ГГц",
+            "matrix": "AMOLED",
+            "resolution": "1920x768",
+            "camera": "86 MP",
+            "acc": "7192 мА * ч"
+        }
+    },
+    {
+        "img": "/upload/594252.svg",
+        "name": "7.5\" iPhone X 112GB",
+        "price": 208518,
+        "bonus": 2085,
+        "specifications": {
+            "processor": "2x1.7 ГГц",
+            "ram": "16 GB",
+            "matrix": "AMOLED",
+            "resolution": "1600x1366",
+            "acc": "4871 мА * ч"
+        }
+    },
+    {
+        "img": "/upload/989212.svg",
+        "name": "5.5\" LaCie 240GB",
+        "price": 135082,
+        "bonus": 1350,
+        "specifications": {
+            "processor": "6x2.7 ГГц",
+            "ram": "11 GB",
+            "sim": "4 SIM",
+            "matrix": "AMOLED",
+            "resolution": "2560x1440",
+            "camera": "53 MP"
+        }
+    },
+    {
+        "img": "/upload/314924.svg",
+        "name": "5.6\" Google Pixel 192GB",
+        "price": 294727,
+        "bonus": 2947,
+        "specifications": {
+            "processor": "6x1.3 ГГц",
+            "matrix": "AMOLED",
+            "camera": "18 MP",
+            "acc": "2558 мА * ч"
+        }
+    },
+    {
+        "img": "/upload/269078.jpeg",
+        "name": "6.0\" Sony 144GB",
+        "price": 257247,
+        "bonus": 2572,
+        "specifications": {
+            "processor": "8x2.5 ГГц",
+            "ram": "15 GB",
+            "matrix": "AMOLED",
+            "resolution": "1366x2160",
+            "camera": "122 MP",
+            "acc": "3659 мА * ч"
+        }
+    },
+    {
+        "img": "/upload/319569.png",
+        "name": "5.1\" Microsoft 80GB",
+        "price": 309908,
+        "bonus": 3099,
+        "specifications": {
+            "processor": "8x1.1 ГГц",
+            "ram": "3 GB",
+            "matrix": "AMOLED",
+            "resolution": "1600x1080",
+            "camera": "109 MP",
+            "acc": "2639 мА * ч"
+        }
+    },
+    {
+        "img": "/upload/250507.jpeg",
+        "name": "7.4\" Intel 192GB",
+        "price": 88583,
+        "bonus": 885,
+        "specifications": {
+            "processor": "6x3.8 ГГц",
+            "sim": "2 SIM",
+            "matrix": "AMOLED",
+            "acc": "5213 мА * ч"
+        }
+    },
+    {
+        "img": "/upload/276282.jpeg",
+        "name": "6.6\" Western Digital 192GB",
+        "price": 499175,
+        "bonus": 4991,
+        "specifications": {
+            "sim": "2 SIM",
+            "matrix": "AMOLED",
+            "camera": "29 MP",
+            "acc": "2491 мА * ч"
+        }
+    },
+    {
+        "img": "/upload/913820.svg",
+        "name": "6.8\" SanDisk 192GB",
+        "price": 128521,
+        "bonus": 1285,
+        "specifications": {
+            "processor": "2x3.6 ГГц",
+            "ram": "5 GB",
+            "matrix": "AMOLED",
+            "resolution": "1600x768",
+            "camera": "63 MP"
+        }
+    },
+    {
+        "img": "/upload/948172.jpg",
+        "name": "5.3\" Lenovo 192GB",
+        "price": 490682,
+        "bonus": 4906,
+        "specifications": {
+            "processor": "8x3.0 ГГц",
+            "ram": "5 GB",
+            "sim": "1 SIM",
+            "matrix": "AMOLED",
+            "camera": "58 MP"
+        }
+    },
+    {
+        "img": "/upload/52049.jpeg",
+        "name": "6.8\" Seagate 160GB",
+        "price": 353490,
+        "bonus": 3534,
+        "specifications": {
+            "processor": "6x4.4 ГГц",
+            "ram": "5 GB",
+            "sim": "4 SIM",
+            "matrix": "AMOLED",
+            "acc": "3573 мА * ч"
+        }
+    },
+    {
+        "img": "/upload/370995.svg",
+        "name": "5.9\" Qualcomm 240GB",
+        "price": 161142,
+        "bonus": 1611,
+        "specifications": {
+            "processor": "2x2.4 ГГц",
+            "ram": "8 GB",
+            "matrix": "AMOLED",
+            "acc": "7778 мА * ч"
+        }
+    },
+    {
+        "img": "/upload/524392.png",
+        "name": "7.4\" Google Pixel 112GB",
+        "price": 107849,
+        "bonus": 1078,
+        "specifications": {
+            "processor": "4x4.9 ГГц",
+            "ram": "11 GB",
+            "sim": "3 SIM",
+            "matrix": "AMOLED",
+            "resolution": "1600x1200",
+            "camera": "96 MP",
+            "acc": "4750 мА * ч"
+        }
+    }
+]
