@@ -1,0 +1,52 @@
+[
+    {
+        "name": "Темный рыцарь: Возрождение легенды",
+        "budget_value": 250000000,
+        "budget_currency": "$"
+    },
+    {
+        "name": "Титаник",
+        "budget_value": 200000000,
+        "budget_currency": "$"
+    },
+    {
+        "name": "Дюна: Часть вторая",
+        "budget_value": 190000000,
+        "budget_currency": "$"
+    },
+    {
+        "name": "Темный рыцарь",
+        "budget_value": 185000000,
+        "budget_currency": "$"
+    },
+    {
+        "name": "Троя",
+        "budget_value": 175000000,
+        "budget_currency": "$"
+    },
+    {
+        "name": "Интерстеллар",
+        "budget_value": 165000000,
+        "budget_currency": "$"
+    },
+    {
+        "name": "Начало",
+        "budget_value": 160000000,
+        "budget_currency": "$"
+    },
+    {
+        "name": "Загадочная история Бенджамина Баттона",
+        "budget_value": 150000000,
+        "budget_currency": "$"
+    },
+    {
+        "name": "Последний самурай",
+        "budget_value": 140000000,
+        "budget_currency": "$"
+    },
+    {
+        "name": "Гладиатор",
+        "budget_value": 103000000,
+        "budget_currency": "$"
+    }
+]

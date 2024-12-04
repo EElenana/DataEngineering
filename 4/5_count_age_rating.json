@@ -1,0 +1,26 @@
+[
+    {
+        "ageRating": 18.0,
+        "count": 107
+    },
+    {
+        "ageRating": 12.0,
+        "count": 49
+    },
+    {
+        "ageRating": null,
+        "count": 15
+    },
+    {
+        "ageRating": 16.0,
+        "count": 13
+    },
+    {
+        "ageRating": 0.0,
+        "count": 13
+    },
+    {
+        "ageRating": 6.0,
+        "count": 6
+    }
+]
