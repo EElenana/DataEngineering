@@ -1,0 +1,470 @@
+{
+    "first_10_sorted_by_bedrooms": [
+        {
+            "_id": "675893f9ebf4fbba6fdc5788",
+            "Unnamed: 0": 38,
+            "fullAddress": "21 Fournier Street, London, E1 6QE",
+            "postcode": "E1 6QE",
+            "bathrooms": 3.0,
+            "bedrooms": 5.0,
+            "livingRooms": 2.0,
+            "tenure": "Freehold",
+            "sale": 3725000.0
+        },
+        {
+            "_id": "675893f9ebf4fbba6fdc581d",
+            "Unnamed: 0": 187,
+            "fullAddress": "21 Lipton Road, London, E1 0LJ",
+            "postcode": "E1 0LJ",
+            "bathrooms": 2.0,
+            "bedrooms": 5.0,
+            "livingRooms": 1.0,
+            "tenure": "Leasehold",
+            "sale": 453000.0
+        },
+        {
+            "_id": "675893f9ebf4fbba6fdc587a",
+            "Unnamed: 0": 280,
+            "fullAddress": "29 Stepney Green, London, E1 3JX",
+            "postcode": "E1 3JX",
+            "bathrooms": 3.0,
+            "bedrooms": 5.0,
+            "livingRooms": 2.0,
+            "tenure": "Leasehold",
+            "sale": 1936000.0
+        },
+        {
+            "_id": "675893f9ebf4fbba6fdc5835",
+            "Unnamed: 0": 211,
+            "fullAddress": "14 Seagrave Close, London, E1 0QJ",
+            "postcode": "E1 0QJ",
+            "bathrooms": 1.0,
+            "bedrooms": 5.0,
+            "livingRooms": 2.0,
+            "tenure": "Leasehold",
+            "sale": 487000.0
+        },
+        {
+            "_id": "675893f9ebf4fbba6fdc57ac",
+            "Unnamed: 0": 74,
+            "fullAddress": "Flat 27, Welstead House, Cannon Street Road, London, E1 2LJ",
+            "postcode": "E1 2LJ",
+            "bathrooms": 1.0,
+            "bedrooms": 5.0,
+            "livingRooms": 1.0,
+            "tenure": "Leasehold",
+            "sale": 453000.0
+        },
+        {
+            "_id": "675893f9ebf4fbba6fdc585e",
+            "Unnamed: 0": 252,
+            "fullAddress": "Flat 25, Welton House, Stepney Way, London, E1 3DP",
+            "postcode": "E1 3DP",
+            "bathrooms": 1.0,
+            "bedrooms": 5.0,
+            "livingRooms": 1.0,
+            "tenure": "Leasehold",
+            "sale": 487000.0
+        },
+        {
+            "_id": "675893f9ebf4fbba6fdc58c6",
+            "Unnamed: 0": 356,
+            "fullAddress": "1 Union Drive, London, E1 4PG",
+            "postcode": "E1 4PG",
+            "bathrooms": 1.0,
+            "bedrooms": 5.0,
+            "livingRooms": 1.0,
+            "tenure": "Freehold",
+            "sale": 761000.0
+        },
+        {
+            "_id": "675893f9ebf4fbba6fdc57f5",
+            "Unnamed: 0": 147,
+            "fullAddress": "Flat 61, Chicksand House, Chicksand Street, London, E1 5LH",
+            "postcode": "E1 5LH",
+            "bathrooms": 1.0,
+            "bedrooms": 5.0,
+            "livingRooms": 1.0,
+            "tenure": "Leasehold",
+            "sale": 446000.0
+        },
+        {
+            "_id": "675893f9ebf4fbba6fdc5782",
+            "Unnamed: 0": 32,
+            "fullAddress": "38 Princelet Street, London, E1 5LP",
+            "postcode": "E1 5LP",
+            "bathrooms": 2.0,
+            "bedrooms": 5.0,
+            "livingRooms": 1.0,
+            "tenure": "Freehold",
+            "sale": 1531000.0
+        },
+        {
+            "_id": "675893f9ebf4fbba6fdc56ad",
+            "fullAddress": "27 Fournier Street, London, E1 6QE",
+            "postcode": "E1 6QE",
+            "bathrooms": 3,
+            "bedrooms": 4,
+            "livingRooms": 6,
+            "tenure": "Freehold",
+            "sale": 5615000
+        }
+    ],
+    "first_15_filtered_by_bathrooms": [
+        {
+            "_id": "675893f9ebf4fbba6fdc5782",
+            "Unnamed: 0": 32,
+            "fullAddress": "38 Princelet Street, London, E1 5LP",
+            "postcode": "E1 5LP",
+            "bathrooms": 2.0,
+            "bedrooms": 5.0,
+            "livingRooms": 1.0,
+            "tenure": "Freehold",
+            "sale": 1531000.0
+        },
+        {
+            "_id": "675893f9ebf4fbba6fdc581d",
+            "Unnamed: 0": 187,
+            "fullAddress": "21 Lipton Road, London, E1 0LJ",
+            "postcode": "E1 0LJ",
+            "bathrooms": 2.0,
+            "bedrooms": 5.0,
+            "livingRooms": 1.0,
+            "tenure": "Leasehold",
+            "sale": 453000.0
+        },
+        {
+            "_id": "675893f9ebf4fbba6fdc5788",
+            "Unnamed: 0": 38,
+            "fullAddress": "21 Fournier Street, London, E1 6QE",
+            "postcode": "E1 6QE",
+            "bathrooms": 3.0,
+            "bedrooms": 5.0,
+            "livingRooms": 2.0,
+            "tenure": "Freehold",
+            "sale": 3725000.0
+        },
+        {
+            "_id": "675893f9ebf4fbba6fdc587a",
+            "Unnamed: 0": 280,
+            "fullAddress": "29 Stepney Green, London, E1 3JX",
+            "postcode": "E1 3JX",
+            "bathrooms": 3.0,
+            "bedrooms": 5.0,
+            "livingRooms": 2.0,
+            "tenure": "Leasehold",
+            "sale": 1936000.0
+        },
+        {
+            "_id": "675893f9ebf4fbba6fdc580a",
+            "Unnamed: 0": 168,
+            "fullAddress": "Flat 21, Sovereign House, Cambridge Heath Road, London, E1 5RZ",
+            "postcode": "E1 5RZ",
+            "bathrooms": 2.0,
+            "bedrooms": 4.0,
+            "livingRooms": 1.0,
+            "tenure": "Leasehold",
+            "sale": 405000.0
+        },
+        {
+            "_id": "675893f9ebf4fbba6fdc56a3",
+            "fullAddress": "Flat 13, Lattice House, 20 Alie Street, London, E1 8GZ",
+            "postcode": "E1 8GZ",
+            "bathrooms": 2,
+            "bedrooms": 4,
+            "livingRooms": 1,
+            "tenure": "Leasehold",
+            "sale": 758000
+        },
+        {
+            "_id": "675893f9ebf4fbba6fdc5829",
+            "Unnamed: 0": 199,
+            "fullAddress": "52 Senrab Street, London, E1 0QF",
+            "postcode": "E1 0QF",
+            "bathrooms": 2.0,
+            "bedrooms": 4.0,
+            "livingRooms": 2.0,
+            "tenure": "Freehold",
+            "sale": 997000.0
+        },
+        {
+            "_id": "675893f9ebf4fbba6fdc579b",
+            "Unnamed: 0": 57,
+            "fullAddress": "30 Elder Street, London, E1 6BT",
+            "postcode": "E1 6BT",
+            "bathrooms": 3.0,
+            "bedrooms": 4.0,
+            "livingRooms": 3.0,
+            "tenure": "Freehold",
+            "sale": 2760000.0
+        },
+        {
+            "_id": "675893f9ebf4fbba6fdc57fd",
+            "Unnamed: 0": 155,
+            "fullAddress": "24D Deal Street, London, E1 5AH",
+            "postcode": "E1 5AH",
+            "bathrooms": 3.0,
+            "bedrooms": 4.0,
+            "livingRooms": 1.0,
+            "tenure": "Freehold",
+            "sale": 652000.0
+        },
+        {
+            "_id": "675893f9ebf4fbba6fdc56ad",
+            "fullAddress": "27 Fournier Street, London, E1 6QE",
+            "postcode": "E1 6QE",
+            "bathrooms": 3,
+            "bedrooms": 4,
+            "livingRooms": 6,
+            "tenure": "Freehold",
+            "sale": 5615000
+        },
+        {
+            "_id": "675893f9ebf4fbba6fdc578b",
+            "Unnamed: 0": 41,
+            "fullAddress": "12 Princelet Street, London, E1 6QH",
+            "postcode": "E1 6QH",
+            "bathrooms": 2.0,
+            "bedrooms": 4.0,
+            "livingRooms": 3.0,
+            "tenure": "Freehold",
+            "sale": 4150000.0
+        },
+        {
+            "_id": "675893f9ebf4fbba6fdc5845",
+            "Unnamed: 0": 227,
+            "fullAddress": "78 O'Leary Square, London, E1 3AS",
+            "postcode": "E1 3AS",
+            "bathrooms": 2.0,
+            "bedrooms": 4.0,
+            "livingRooms": 1.0,
+            "tenure": "Leasehold",
+            "sale": 552000.0
+        },
+        {
+            "_id": "675893f9ebf4fbba6fdc582a",
+            "Unnamed: 0": 200,
+            "fullAddress": "63 Clearbrook Way, London, E1 0SD",
+            "postcode": "E1 0SD",
+            "bathrooms": 2.0,
+            "bedrooms": 4.0,
+            "livingRooms": 1.0,
+            "tenure": "Leasehold",
+            "sale": 404000.0
+        },
+        {
+            "_id": "675893f9ebf4fbba6fdc578c",
+            "Unnamed: 0": 42,
+            "fullAddress": "34 Hanbury Street, London, E1 6QR",
+            "postcode": "E1 6QR",
+            "bathrooms": 3.0,
+            "bedrooms": 4.0,
+            "livingRooms": 2.0,
+            "tenure": "Freehold",
+            "sale": 3602000.0
+        },
+        {
+            "_id": "675893f9ebf4fbba6fdc5733",
+            "fullAddress": "15A New Road, London, E1 1HE",
+            "postcode": "E1 1HE",
+            "bathrooms": 2,
+            "bedrooms": 4,
+            "livingRooms": 1,
+            "tenure": "Leasehold",
+            "sale": 756000
+        }
+    ],
+    "first_10_filtered_complex": [
+        {
+            "_id": "675893f9ebf4fbba6fdc56a9",
+            "fullAddress": "Flat 510, Sketch Apartments, 42 White Horse Lane, London, E1 3FY",
+            "postcode": "E1 3FY",
+            "bathrooms": 2,
+            "bedrooms": 2,
+            "livingRooms": 1,
+            "tenure": "Leasehold",
+            "sale": 498000
+        },
+        {
+            "_id": "675893f9ebf4fbba6fdc56aa",
+            "fullAddress": "Flat 702, Sketch Apartments, 42 White Horse Lane, London, E1 3FY",
+            "postcode": "E1 3FY",
+            "bathrooms": 2,
+            "bedrooms": 2,
+            "livingRooms": 1,
+            "tenure": "Leasehold",
+            "sale": 574000
+        },
+        {
+            "_id": "675893f9ebf4fbba6fdc56a4",
+            "fullAddress": "Flat 17, Lattice House, 20 Alie Street, London, E1 8GZ",
+            "postcode": "E1 8GZ",
+            "bathrooms": 2,
+            "bedrooms": 2,
+            "livingRooms": 1,
+            "tenure": "Leasehold",
+            "sale": 571000
+        },
+        {
+            "_id": "675893f9ebf4fbba6fdc56a8",
+            "fullAddress": "Flat 212, Sketch Apartments, 42 White Horse Lane, London, E1 3FY",
+            "postcode": "E1 3FY",
+            "bathrooms": 2,
+            "bedrooms": 2,
+            "livingRooms": 1,
+            "tenure": "Leasehold",
+            "sale": 485000
+        },
+        {
+            "_id": "675893f9ebf4fbba6fdc56a5",
+            "fullAddress": "32 Essian Street, London, E1 4QE",
+            "postcode": "E1 4QE",
+            "bathrooms": 2,
+            "bedrooms": 3,
+            "livingRooms": 1,
+            "tenure": "Leasehold",
+            "sale": 691000
+        },
+        {
+            "_id": "675893f9ebf4fbba6fdc56a3",
+            "fullAddress": "Flat 13, Lattice House, 20 Alie Street, London, E1 8GZ",
+            "postcode": "E1 8GZ",
+            "bathrooms": 2,
+            "bedrooms": 4,
+            "livingRooms": 1,
+            "tenure": "Leasehold",
+            "sale": 758000
+        },
+        {
+            "_id": "675893f9ebf4fbba6fdc569c",
+            "fullAddress": "Apartment 128, Avantgarde Tower, 1 Avantgarde Place, London, E1 6GS",
+            "postcode": "E1 6GS",
+            "bathrooms": 2,
+            "bedrooms": 3,
+            "livingRooms": 1,
+            "tenure": "Leasehold",
+            "sale": 972000
+        },
+        {
+            "_id": "675893f9ebf4fbba6fdc569b",
+            "fullAddress": "Apartment 107, Avantgarde Tower, 1 Avantgarde Place, London, E1 6GS",
+            "postcode": "E1 6GS",
+            "bathrooms": 1,
+            "bedrooms": 3,
+            "livingRooms": 1,
+            "tenure": "Leasehold",
+            "sale": 926000
+        },
+        {
+            "_id": "675893f9ebf4fbba6fdc569e",
+            "fullAddress": "Apartment 12, Courtyard Apartments, 3 Avantgarde Place, London, E1 6GU",
+            "postcode": "E1 6GU",
+            "bathrooms": 2,
+            "bedrooms": 2,
+            "livingRooms": 1,
+            "tenure": "Leasehold",
+            "sale": 789000
+        },
+        {
+            "_id": "675893f9ebf4fbba6fdc56a6",
+            "fullAddress": "Flat 304, Sculpture House, 4 Killick Way, London, E1 3FE",
+            "postcode": "E1 3FE",
+            "bathrooms": 2,
+            "bedrooms": 2,
+            "livingRooms": 1,
+            "tenure": "Leasehold",
+            "sale": 459000
+        }
+    ],
+    "count_filtered_bathrooms": 215,
+    "first_5_sorted_by_postcode": [
+        {
+            "_id": "675893f9ebf4fbba6fdc580f",
+            "Unnamed: 0": 173,
+            "fullAddress": "362 Cable Street, London, E1 0AE",
+            "postcode": "E1 0AE",
+            "bathrooms": 1.0,
+            "bedrooms": 2.0,
+            "livingRooms": 1.0,
+            "tenure": "Leasehold",
+            "sale": 438000.0
+        },
+        {
+            "_id": "675893f9ebf4fbba6fdc580e",
+            "Unnamed: 0": 172,
+            "fullAddress": "318 Cable Street, London, E1 0AE",
+            "postcode": "E1 0AE",
+            "bathrooms": 1.0,
+            "bedrooms": 2.0,
+            "livingRooms": 1.0,
+            "tenure": "Leasehold",
+            "sale": 415000.0
+        },
+        {
+            "_id": "675893f9ebf4fbba6fdc580d",
+            "Unnamed: 0": 171,
+            "fullAddress": "300 Cable Street, London, E1 0AE",
+            "postcode": "E1 0AE",
+            "bathrooms": 1.0,
+            "bedrooms": 2.0,
+            "livingRooms": 1.0,
+            "tenure": "Leasehold",
+            "sale": 380000.0
+        },
+        {
+            "_id": "675893f9ebf4fbba6fdc56d5",
+            "fullAddress": "387 Cable Street, London, E1 0AH",
+            "postcode": "E1 0AH",
+            "bathrooms": 1,
+            "bedrooms": 1,
+            "livingRooms": 1,
+            "tenure": "Leasehold",
+            "sale": 467000
+        },
+        {
+            "_id": "675893f9ebf4fbba6fdc571c",
+            "fullAddress": "Flat 10, 69 Johnson Street, London, E1 0AQ",
+            "postcode": "E1 0AQ",
+            "bathrooms": 1,
+            "bedrooms": 3,
+            "livingRooms": 2,
+            "tenure": "Leasehold",
+            "sale": 467000
+        }
+    ],
+    "aggregation": {
+        "min_bedrooms": {
+            "_id": null,
+            "min_bedrooms": 1.0
+        },
+        "sale_stats": [
+            {
+                "_id": null,
+                "min_sale": 233000.0,
+                "avg_sale": 601643.7768240343,
+                "max_sale": 5615000
+            }
+        ],
+        "bedrooms_stats": {
+            "_id": null,
+            "min_bedrooms": 1.0,
+            "avg_bedrooms": 1.9066022544283414,
+            "max_bedrooms": 5.0
+        },
+        "livingRooms_by_tenure": [
+            {
+                "_id": "Freehold",
+                "min_livingRooms": 1.0,
+                "avg_livingRooms": 2.625,
+                "max_livingRooms": 6
+            },
+            {
+                "_id": "Leasehold",
+                "min_livingRooms": 1,
+                "avg_livingRooms": 1.5,
+                "max_livingRooms": 2
+            }
+        ]
+    },
+    "count_postcode_E1_6GS": 2
+}
